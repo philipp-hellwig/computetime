@@ -1,2 +1,2 @@
-export(is.equal.null)
+exportPattern("^[[:alpha:]]+")
 import(ggplot2)
